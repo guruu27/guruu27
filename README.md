@@ -1,4 +1,5 @@
-![](./pixels-neon.gif)
+<img src="https://example.com/path/to/your/https://raw.githubusercontent.com/vanu98/vanu98/main/pixels-neon.gif" width="400" />
+
 
 ### Hi there 👋
 
